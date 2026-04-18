@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository
 <br>
-Author:-Ritesh Kumar
+Author:-Ritesh Kumar(Apna Tutorial)
